@@ -1,0 +1,5 @@
+command to start emulator
+
+	~/Android/Sdk/tools/emulator  -avd Galaxy_Nexus_API_23 -verbose -tcpdump emulator.cap
+
+	Here Galaxy_Nexus_API_23  is the name of the Android virtual Device
