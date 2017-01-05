@@ -1,4 +1,5 @@
 # Dynamic TLS misconfiguration Detection#
+Developed a framework that performs a comprehensive step by step dynamic and automated teardown of the app registration, login procedures and their SSL/TLS configurations to detect SSL/TLS vulnerabilities.
 
 This contains the following 
 
